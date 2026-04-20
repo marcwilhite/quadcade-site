@@ -8,12 +8,12 @@ title: Quadcade
 **Drop. Match four. Chain a cascade.**
 A neon-glass merge puzzle built for short, intense sessions and the one-more-run feeling.
 
-<p>
-  <img src="screenshots/01-how-to-play.png" alt="How to Play" width="220">
-  <img src="screenshots/02-empty-board.png" alt="Empty board" width="220">
-  <img src="screenshots/03-in-action.png" alt="Mid-game" width="220">
-  <img src="screenshots/04-you-win.png" alt="You Win" width="220">
-</p>
+<div style="display: flex; gap: 10px; margin: 24px 0; align-items: flex-start;">
+  <img src="screenshots/01-how-to-play.png" alt="How to Play" style="flex: 1; min-width: 0; width: 100%; height: auto;">
+  <img src="screenshots/02-empty-board.png" alt="Empty board" style="flex: 1; min-width: 0; width: 100%; height: auto;">
+  <img src="screenshots/03-in-action.png" alt="Mid-game" style="flex: 1; min-width: 0; width: 100%; height: auto;">
+  <img src="screenshots/04-you-win.png" alt="You Win" style="flex: 1; min-width: 0; width: 100%; height: auto;">
+</div>
 
 ## How it plays
 

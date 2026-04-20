@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Quadcade Privacy Policy
+permalink: /privacy/
 ---
 
 # Quadcade Privacy Policy

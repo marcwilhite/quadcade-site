@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Quadcade Support
+permalink: /support/
 ---
 
 # Quadcade Support
